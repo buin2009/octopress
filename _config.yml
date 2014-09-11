@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: https://buin2009.github.io/octopress
+title: Thủ tiếng Việt Title
+subtitle: Tiếng việt số 2, số hai
+author: Nam Nam là tên tôi
 simple_search: https://www.google.com/search
 description:
 
